@@ -1,0 +1,21 @@
+﻿using System;
+using System.ComponentModel;
+using Next.Framework.Core;
+
+namespace @(Model.param.CNSC.Model)
+{
+	[Serializable]
+	public class @(Model.param.ClassName): BaseEntity
+	{
+		@foreach(var item in Model.fields)
+		{
+		/// <summary>
+		/// ID
+		/// </summary>
+		<text>[DisplayName("</text>@item.Name<text>")]</text>
+		<text>public </text>@item.DotNetType <text> </text>@item.Name <text>{ get; set; }</text>
+
+		}
+
+	}
+}

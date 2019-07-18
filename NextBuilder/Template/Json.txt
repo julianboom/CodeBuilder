@@ -1,0 +1,9 @@
+﻿[
+@foreach(var item in Model.fields)
+{
+if(item.Note!=""){
+<text>{"id":"</text>@item.Name<text>","text":"</text>@item.Note<text>"},</text>
+}
+}
+]
+

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder", "NextBuilder\NextBuilder.csproj", "{98446779-567B-4709-A9DC-CFF89277BE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder.Bussiness", "NextBuilder.Bussiness\NextBuilder.Bussiness.csproj", "{6C93B182-FC92-4013-B840-9A9B743AF6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder.Common", "NextBuilder.Common\NextBuilder.Common.csproj", "{D8CB159A-05C6-4D57-BF2D-7827F61CD9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder.MySql", "NextBuilder.MySql\NextBuilder.MySql.csproj", "{31488589-7753-4942-837F-60AB8AF3F55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder.Factory", "NextBuilder.Factory\NextBuilder.Factory.csproj", "{3AC1FDDB-5776-4A48-A192-AF183B7297FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder.IData", "NextBuilder.IData\NextBuilder.IData.csproj", "{916F22FB-F1E8-40F2-A198-24214EE184F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBuilder.Model", "NextBuilder.Model\NextBuilder.Model.csproj", "{21251EBF-9F58-4CCD-8994-D65C0B5B8A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98446779-567B-4709-A9DC-CFF89277BE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98446779-567B-4709-A9DC-CFF89277BE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98446779-567B-4709-A9DC-CFF89277BE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98446779-567B-4709-A9DC-CFF89277BE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C93B182-FC92-4013-B840-9A9B743AF6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C93B182-FC92-4013-B840-9A9B743AF6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C93B182-FC92-4013-B840-9A9B743AF6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C93B182-FC92-4013-B840-9A9B743AF6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CB159A-05C6-4D57-BF2D-7827F61CD9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CB159A-05C6-4D57-BF2D-7827F61CD9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CB159A-05C6-4D57-BF2D-7827F61CD9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CB159A-05C6-4D57-BF2D-7827F61CD9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31488589-7753-4942-837F-60AB8AF3F55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31488589-7753-4942-837F-60AB8AF3F55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31488589-7753-4942-837F-60AB8AF3F55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31488589-7753-4942-837F-60AB8AF3F55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC1FDDB-5776-4A48-A192-AF183B7297FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC1FDDB-5776-4A48-A192-AF183B7297FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC1FDDB-5776-4A48-A192-AF183B7297FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC1FDDB-5776-4A48-A192-AF183B7297FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916F22FB-F1E8-40F2-A198-24214EE184F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916F22FB-F1E8-40F2-A198-24214EE184F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916F22FB-F1E8-40F2-A198-24214EE184F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916F22FB-F1E8-40F2-A198-24214EE184F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21251EBF-9F58-4CCD-8994-D65C0B5B8A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21251EBF-9F58-4CCD-8994-D65C0B5B8A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21251EBF-9F58-4CCD-8994-D65C0B5B8A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21251EBF-9F58-4CCD-8994-D65C0B5B8A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

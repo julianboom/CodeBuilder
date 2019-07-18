@@ -1,0 +1,14 @@
+﻿using Next.Framework.Core;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using @(Model.param.CNSC.Model);
+
+namespace @(Model.param.CNSC.Interface)
+{
+    public interface I@(Model.param.ClassName)DAL : IBaseDAL<@(Model.param.ClassName)>
+    {
+    }
+}

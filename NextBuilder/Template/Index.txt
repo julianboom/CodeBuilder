@@ -1,0 +1,196 @@
+﻿[*]{
+    ViewBag.Title = "List";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+    [*]Styles.Render("~/Assets/BootstrapStyle")
+    [*]Scripts.Render("~/Assets/BootstrapScript")
+</head>
+<body>
+    <div class="mySearch">
+        <div class="row">
+            <div class="col-xs-1">
+                <label class="margin-5">查询条件：</label>
+            </div>
+            <div class="col-xs-2">
+                <select id="columnName" name="columnName" class="form-control selectpicker">
+                    <option value=""></option>
+            
+                </select>
+            </div>
+            <div class="col-xs-1">
+                <select id="expression" name="expression" class="form-control selectpicker">
+                    
+                </select>
+            </div>
+            <div class="col-xs-2">
+                <input type="text" name="columnValue" id="columnValue" class="form-control" />
+            </div>
+
+ <div class="col-xs-6">
+                <button class="btn btn-primary" style="float:right" onclick="mySearchClear()">清空</button>
+                <button class="btn btn-primary" style="float:right;margin-right:10px;" id="btnSearch" onclick="queryDataGrid()">查询</button>
+
+            </div>
+        </div>
+    </div>
+    <div>
+        <table id="table"></table>
+    </div>
+</body>
+</html>
+<script>
+ 
+    var condition;
+    if ($("#columnValue").val() == "") {
+        condition = '';
+        console.log(condition + "dddddddddddd");
+    } else {
+        if ($("#expression").val() == 'LIKE') {
+            //condition = $("#columnName").combobox('getValue') + ' ' + $("#expression").combobox('getValue') + ' \'%' + $("#columnValue").val() + '%\''
+            condition = $("#columnName").val() + ' ' + $("#expression").val() + ' \'%' + $("#columnValue").val() + '%\''
+        } else {
+            condition = $("#columnName").val() + ' ' + $("#expression").val() + ' \'' + $("#columnValue").val() + '\''
+            //condition = $("#columnName").combobox('getValue') + ' ' + $("#expression").combobox('getValue') + ' \'' + $("#columnValue").val() + '\''
+        }
+    }
+    queryStr = condition;
+    var SearchHeight = $(".mySearch").height();
+    //console.log(SearchHeight);
+    $('#table').bootstrapTable({
+        height: $(window).height() - SearchHeight+50,
+        url: '/@(Model.param.NameSpace)/@(Model.param.ClassName)/FindWithPager',
+         method: 'get',
+       // contentType: "application/x-www-form-urlencoded",
+        toolbar: '#toolbar',    //工具按钮用哪个容器
+        striped: true,      //是否显示行间隔色
+        cache: false,      //是否使用缓存，默认为true，所以一般情况下需要设置一下这个属性（*）
+        pagination: true,     //是否显示分页（*）
+        sortable: false,      //是否启用排序
+
+        pageNumber: 1,      //初始化加载第一页，默认第一页
+        pageSize: 100,      //每页的记录行数（*）
+        pageList: [10, 25, 50, 100],  //可供选择的每页的行数（*）
+        queryParamsType: '', //默认值为 'limit' ,在默认情况下 传给服务端的参数为：offset,limit,sort
+        sidePagination: "server",   //分页方式：client客户端分页，server服务端分页（*）
+        strictSearch: true,
+        minimumCountColumns: 2,    //最少允许的列数
+        clickToSelect: true,    //是否启用点击选中行
+        queryParams: function (params) {
+            return {
+                columnName: $("#columnName").val(),
+                //columnName: $("#columnName").combobox('getValue'),
+                expression: $("#expression").val(),
+                columnValue: $("#columnValue").val(),
+                CustomedCondition: condition,
+                rows: params.pageSize,
+                page: params.pageNumber,
+            }
+        },
+        columns: [
+
+                    @{foreach(var item in Model.fields)
+                    {
+                        if(item.Note!=""){
+                <text>{ title: '</text>@item.Note<text>', field: '</text>@item.Name<text>', width: 80, sortable: true, align: 'center',editable: false },</text>
+                        }
+                    }}
+   { title: '单位职务', field: '', width: 80, sortable: true, align: 'center',formatter: danweizhiwu, editable: false },
+                                   { title: '操作', field: '', width: 80, sortable: true, align: 'center', editable: false ,formatter: operateFormatter}
+             
+
+
+        ],
+    });
+    function danweizhiwu(value, row, index) {
+        var a = row.ObjUnit + " " + row.ObjPost;
+        return a;
+    }
+    function operateFormatter(value, row, index) {
+           return [
+'<a  href="javascript:openTask(\'/WorkFlow/WorkFlowRun/Index?flowid=' + row.FlowID + '&stepid=' + row.StepID + '&instanceid=' + row.InstanceID + '&taskid=' + row.ID + '&groupid=' + row.GroupID + '\',\'' + row.Name + '\',\'' + row.ID + '\')" id="btn_detail" type="button" class="btn btn-primary btn-xs" style="margin-right:10px"><span class=""></span>办理</a>',
+            '<a  href="javascript:detail(\'' + row.FlowID + '\',\'' + row.GroupID + '\',\'&tabid=[*]Request.QueryString["tabid"]&appid=[*]Request.QueryString["appid"]&display=1\')" id="btn_detail" type="button" class="btn btn-info btn-xs" style="margin-right:10px"><span class=""></span>流程查看</a>'     ].join('');
+    }
+  
+    function openTask(url, title, id) {
+
+        top.addTabs({ id: "tab_" + id, title: title, close: true, url: url });
+        //top.openApp(url, 0, title, "tab_" + id, 0, 0, false);
+    }
+    function detail(flowid, groupid, url) {
+        top.mainDialog.open({
+            url: top.rootdir + '/WorkFlowTasks/Detail?flowid1=' + flowid + "&groupid=" + groupid + '' + url + '',
+            width: 1024, height: 550, title: "查看流程处理过程"
+        });
+    }
+    function queryDataGrid() {
+        if ($("#columnValue").val() == "") {
+            condition = '';
+            console.log(condition + "dddddddddddd");
+        } else {
+            if ($("#expression").val() == 'LIKE') {
+                //condition = $("#columnName").combobox('getValue') + ' ' + $("#expression").combobox('getValue') + ' \'%' + $("#columnValue").val() + '%\''
+                condition = $("#columnName").val() + ' ' + $("#expression").val() + ' \'%' + $("#columnValue").val() + '%\''
+            } else {
+                condition = $("#columnName").val() + ' ' + $("#expression").val() + ' \'' + $("#columnValue").val() + '\''
+                //condition = $("#columnName").combobox('getValue') + ' ' + $("#expression").combobox('getValue') + ' \'' + $("#columnValue").val() + '\''
+            }
+        }
+        $('#table').bootstrapTable('refresh', {
+            pageNumber: 1,
+        });
+    }
+    function LaunchFlow(ID) {
+        $.ajax({
+            url: '/@(Model.param.NameSpace)/@(Model.param.ClassName)/LaunchFlow', //发送后台的url
+            type: 'post',
+            data: { "ClueID": ID }, //序列化表单内容
+            dataType: 'text', //后台返回的数据类型
+            // timeout: 15000, //超时时间
+            success: function (data) {
+                data = JSON.parse(data);
+
+                openTask('/WorkFlow/WorkFlowRun/Index?flowid=' + data.FlowID + '&stepid=' + data.StepID + '&instanceid=' + data.InstanceID + '&taskid=' + data.ID + '&groupid=' + data.GroupID, data.StepName, data.ID);
+
+            }
+        });
+    }
+
+    $.ajax({
+        url:'/json/Commons/Expression.json',
+        type: 'get', //GET
+        dataType: 'json',
+        success: function (data, textStatus, jqXHR) {
+            var selecthtml = "<option value=''></option>";
+            for (var i = 0; i < data.length; i++) {
+                selecthtml =selecthtml+ "<option value='" + data[i].id + "'>" + data[i].text + "</option>";
+            }
+            $("#expression").children().remove();
+            $("#expression").append(selecthtml);
+            $('.selectpicker').selectpicker('val', '');
+            $('.selectpicker').selectpicker('refresh');
+        },
+    })
+
+       $.ajax({
+        url:'/json/@(Model.param.NameSpace)/@(Model.param.ClassName)/ColumnName.json',
+        type: 'get', //GET
+        dataType: 'json',
+        success: function (data, textStatus, jqXHR) {
+            var selecthtml = "<option value=''></option>";
+            for (var i = 0; i < data.length; i++) {
+                selecthtml =selecthtml+ "<option value='" + data[i].id + "'>" + data[i].text + "</option>";
+            }
+            $("#columnName").children().remove();
+            $("#columnName").append(selecthtml);
+            $('.selectpicker').selectpicker('val', '');
+            $('.selectpicker').selectpicker('refresh');
+        },
+    })
+  
+</script>

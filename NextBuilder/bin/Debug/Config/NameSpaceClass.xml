@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <namespaceclass>
+    <model>App.EliminateEvil.Entity</model>
+    <data>App.EliminateEvil.DALMySql</data>
+    <business>App.EliminateEvil.BLL</business>
+    <interface>App.EliminateEvil.IDAL</interface>
+    <factory />
+  </namespaceclass>
+  <namespaceclass>
+    <model>Next.Attachment.Entity</model>
+    <data>Next.Attachment.DALMySql</data>
+    <business>Next.Attachment.BLL</business>
+    <interface>Next.Attachment.IDAL</interface>
+    <factory />
+  </namespaceclass>
+  <namespaceclass>
+    <model>App.Clue.Entity</model>
+    <data>App.Clue.DALMySql</data>
+    <business>App.Clue.BLL</business>
+    <interface>App.Clue.IDAL</interface>
+    <factory />
+  </namespaceclass>
+</root>

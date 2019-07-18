@@ -1,0 +1,33 @@
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.pdb
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csprojResolveAssemblyReference.cache
+F:\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csprojAssemblyReference.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csproj.CoreCompileInputs.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csproj.CopyComplete
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.IData.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\bin\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csprojAssemblyReference.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csproj.CoreCompileInputs.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.csproj.CopyComplete
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.IData\obj\Debug\NextBuilder.IData.pdb

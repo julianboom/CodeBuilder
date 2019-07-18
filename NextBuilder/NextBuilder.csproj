@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98446779-567B-4709-A9DC-CFF89277BE39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NextBuilder</RootNamespace>
+    <AssemblyName>NextBuilder</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v14.1, Version=14.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v14.1, Version=14.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v14.1, Version=14.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v14.1, Version=14.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="ICSharpCode.TextEditor">
+      <HintPath>..\packages\ICSharpCode.TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorEngine">
+      <HintPath>..\packages\RazorEngine.3.10.0\lib\net45\RazorEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.0.0\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\packages\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_AddDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AddDatabase.Designer.cs">
+      <DependentUpon>Form_AddDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AddDatabase_MySql.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AddDatabase_MySql.Designer.cs">
+      <DependentUpon>Form_AddDatabase_MySql.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Base.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Base.Designer.cs">
+      <DependentUpon>Form_Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Code.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Code.Designer.cs">
+      <DependentUpon>Form_Code.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Database.Designer.cs">
+      <DependentUpon>Form_Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Home.Designer.cs">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SetNameSpace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SetNameSpace.Designer.cs">
+      <DependentUpon>Form_SetNameSpace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SetNameSpaceClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SetNameSpaceClass.Designer.cs">
+      <DependentUpon>Form_SetNameSpaceClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SetTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SetTemplate.Designer.cs">
+      <DependentUpon>Form_SetTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_AddDatabase.resx">
+      <DependentUpon>Form_AddDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AddDatabase_MySql.resx">
+      <DependentUpon>Form_AddDatabase_MySql.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Code.resx">
+      <DependentUpon>Form_Code.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Database.resx">
+      <DependentUpon>Form_Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Home.resx">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SetNameSpace.resx">
+      <DependentUpon>Form_SetNameSpace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SetNameSpaceClass.resx">
+      <DependentUpon>Form_SetNameSpaceClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SetTemplate.resx">
+      <DependentUpon>Form_SetTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NextBuilder.Bussiness\NextBuilder.Bussiness.csproj">
+      <Project>{6c93b182-fc92-4013-b840-9a9b743af6d3}</Project>
+      <Name>NextBuilder.Bussiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NextBuilder.Common\NextBuilder.Common.csproj">
+      <Project>{d8cb159a-05c6-4d57-bf2d-7827f61cd9cf}</Project>
+      <Name>NextBuilder.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NextBuilder.Factory\NextBuilder.Factory.csproj">
+      <Project>{3ac1fddb-5776-4a48-a192-af183b7297fd}</Project>
+      <Name>NextBuilder.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NextBuilder.IData\NextBuilder.IData.csproj">
+      <Project>{916f22fb-f1e8-40f2-a198-24214ee184f2}</Project>
+      <Name>NextBuilder.IData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NextBuilder.Model\NextBuilder.Model.csproj">
+      <Project>{21251ebf-9f58-4ccd-8994-d65c0b5b8a4b}</Project>
+      <Name>NextBuilder.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NextBuilder.MySql\NextBuilder.MySql.csproj">
+      <Project>{31488589-7753-4942-837f-60ab8af3f55e}</Project>
+      <Name>NextBuilder.MySql</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Template\BLL.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\Controller.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\DAL.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\Edit.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\Entity.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\IDAL.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\Index.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Template\Json.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

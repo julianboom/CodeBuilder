@@ -1,0 +1,183 @@
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe.config
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.pdb
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csprojResolveAssemblyReference.cache
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.MainForm.resources
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Properties.Resources.resources
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.GenerateResource.Cache
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.exe
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.pdb
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase_MySql.resources
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.dll
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.dll
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.dll
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.pdb
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.pdb
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.pdb
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.pdb
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.pdb
+F:\NextBuilder\NextBuilder\bin\Debug\RazorEngine.dll
+F:\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.dll
+F:\NextBuilder\NextBuilder\bin\Debug\RazorEngine.xml
+F:\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.xml
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Database.resources
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Home.resources
+F:\NextBuilder\NextBuilder\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase.resources
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Code.resources
+F:\NextBuilder\NextBuilder\bin\Debug\ICSharpCode.TextEditor.dll
+F:\NextBuilder\NextBuilder\bin\Debug\Template\BLL.txt
+F:\NextBuilder\NextBuilder\bin\Debug\Template\DAL.txt
+F:\NextBuilder\NextBuilder\bin\Debug\Template\Entity.txt
+F:\NextBuilder\NextBuilder\bin\Debug\Template\IDAL.txt
+F:\NextBuilder\NextBuilder\bin\Debug\Template\Json.txt
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpace.resources
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpaceClass.resources
+F:\NextBuilder\NextBuilder\bin\Debug\Template\Controller.txt
+F:\NextBuilder\NextBuilder\bin\Debug\Template\Edit.txt
+F:\NextBuilder\NextBuilder\bin\Debug\Template\Index.txt
+F:\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetTemplate.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\BLL.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Controller.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\DAL.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Entity.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\IDAL.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Json.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Edit.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Index.txt
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe.config
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\RazorEngine.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\RazorEngine.xml
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase_MySql.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Code.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Database.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Home.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpace.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpaceClass.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetTemplate.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.MainForm.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.exe
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\mysql.data.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll.config
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\BLL.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Controller.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\DAL.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Entity.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\IDAL.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Json.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Edit.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\Template\Index.txt
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe.config
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\mysql.data.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\RazorEngine.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll.config
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\RazorEngine.xml
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.xml
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csprojAssemblyReference.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase_MySql.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Code.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Database.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Home.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpace.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpaceClass.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetTemplate.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.MainForm.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Properties.Resources.resources
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.GenerateResource.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.CoreCompileInputs.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.CopyComplete
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.exe
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder\obj\Debug\NextBuilder.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\BLL.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\Controller.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\DAL.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\Entity.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\IDAL.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\Json.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\Edit.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\Template\Index.txt
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe.config
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.exe
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\RazorEngine.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\MySql.Data.dll
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Bussiness.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Common.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Factory.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.IData.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\NextBuilder.MySql.dll.config
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\RazorEngine.xml
+D:\Anshare_Git\NextBuilder\NextBuilder\bin\Debug\System.Web.Razor.xml
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csprojAssemblyReference.cache
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_AddDatabase_MySql.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Code.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Database.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_Home.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpace.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetNameSpaceClass.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Form_SetTemplate.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.MainForm.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.Properties.Resources.resources
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.GenerateResource.cache
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.CoreCompileInputs.cache
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.csproj.CopyComplete
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.exe
+D:\Anshare_Git\NextBuilder\NextBuilder\obj\Debug\NextBuilder.pdb

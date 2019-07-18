@@ -1,0 +1,56 @@
+F:\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csprojResolveAssemblyReference.cache
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.pdb
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.dll
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.pdb
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.pdb
+F:\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.dll
+F:\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll.config
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll.config
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csprojAssemblyReference.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csproj.CoreCompileInputs.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csproj.CopyComplete
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll.config
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.MySql.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Common.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.IData.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\bin\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csprojAssemblyReference.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csproj.CoreCompileInputs.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.csproj.CopyComplete
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.MySql\obj\Debug\NextBuilder.MySql.pdb

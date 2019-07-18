@@ -1,0 +1,65 @@
+F:\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csprojResolveAssemblyReference.cache
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.dll
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.xml
+F:\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.dll
+F:\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.xml
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.xml
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csprojAssemblyReference.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csproj.CopyComplete
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Bussiness.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Common.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Factory.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.IData.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\bin\Debug\RazorEngine.xml
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csprojAssemblyReference.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csproj.CoreCompileInputs.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.csproj.CopyComplete
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Bussiness\obj\Debug\NextBuilder.Bussiness.pdb

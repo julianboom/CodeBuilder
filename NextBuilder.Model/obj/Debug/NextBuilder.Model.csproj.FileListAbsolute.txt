@@ -1,0 +1,22 @@
+F:\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+F:\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+C:\Users\Administrator\Desktop\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csprojResolveAssemblyReference.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csproj.CoreCompileInputs.cache
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+C:\Users\17190\Documents\WeChat Files\crazy-caicai\Files\NextBuilder\NextBuilder\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Model\bin\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csproj.CoreCompileInputs.cache
+D:\Anshare_Git\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.dll
+D:\Anshare_Git\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.pdb
+D:\Anshare_Git\NextBuilder\NextBuilder.Model\obj\Debug\NextBuilder.Model.csprojAssemblyReference.cache

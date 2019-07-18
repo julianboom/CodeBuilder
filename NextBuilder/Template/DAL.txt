@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Data;
+using Next.Framework.Core;
+using @(Model.param.CNSC.Model);
+using @(Model.param.CNSC.Interface);
+
+namespace @(Model.param.CNSC.Data)
+{
+	public class @(Model.param.ClassName)DAL: BaseDALMySql<@(Model.param.ClassName)> , I@(Model.param.ClassName)DAL
+	{
+		public static @(Model.param.ClassName)DAL Instance
+		{
+			get
+			{
+				return new @(Model.param.ClassName)DAL();
+			}
+		}
+		/// <summary>
+		/// 构造函数
+		/// </summary>
+		public @(Model.param.ClassName)DAL()
+		: base("@(Model.param.ClassName)", "ID")
+		{
+			this.sortField = "ID";
+			this.IsDescending = false;
+		}
+	}
+}
